@@ -110,10 +110,10 @@ This application integrates with the **OpenWeather API** to fetch real-time weat
 ## Screenshots
 
 ### Homepage with Live Location Weather
-![Live Location Weather](path/to/screenshot1.png)
+![Live Location Weather](screenshot1.png)
 
 ### City Search Weather Forecast
-![City Search](path/to/screenshot2.png)
+![City Search](screenshot2.png)
 
 ---
 
